@@ -1,4 +1,4 @@
-21 lines (14 sloc)  1.31 KB
+
 SayCheese v1.0
 
 Take webcam shots from target just sending a malicious link
