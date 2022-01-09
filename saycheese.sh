@@ -10,12 +10,12 @@ banner() {
 
 printf "\e[1;92m  ------       ------       --------       --------	----   ----------------  \e[0m\n"
 printf "\e[1;92m |      \     /      |    /    __    \    |         \  |    | |                | \e[0m\n"
-printf "\e[1;92m |	 \___/	     |   /    /__\    \   |    |\    \ |    |  -----    -------  \e[0m\n"
+printf "\e[1;77m |	 \___/	     |   /    /__\    \   |    |\    \ |    |  -----    -------  \e[0m\n"
 printf "\e[1;92m |    |\       /|    |  /    /____\    \  |    | \    \|    |  _____\   \ _____  \e[0m\n"
 printf "\e[1;92m |    |  -----	|    | |    |      |    | |    |  \         | |                | \e[0m\n"
-printf "\e[1;92m  ----           ----   ----        ----   ----     --------   ----------------  \e[0m\n"
+printf "\e[1;77m  ----           ----   ----        ----   ----     --------   ----------------  \e[0m\n"
 
-printf " \e[1;77m v1.0 coded by github.com/SivajiBaby/SivajiBaby\e[0m \n"
+printf " \e[1;77m github.com/SivajiBaby/SivajiBaby\e[0m \n"
 
 printf "\n"
 
